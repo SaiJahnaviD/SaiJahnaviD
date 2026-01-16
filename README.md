@@ -29,31 +29,15 @@
 [![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?logo=googleearth&logoColor=white&style=for-the-badge)](https://developers.google.com/earth-engine)
 
 ---
-
-# Hey, I'm Sai Jahnavi Damacharla! 
-
 ## Data Science | Data Analysis | ML | DL | NLP | AI | GIS | CLOUD | Research
 
-I'm a fresh grad with a major in Applied Data Science from IU along with Computer Science background in undergrad; looking for opportunities in healthcare, fintech, transport, business, geospatial and diverse industries.
+# Hey, I am Sai Jahnavi Damacharla!
+
+I'm a fresh grad with a major in Applied Data Science from IU along with Computer Science background in undergrad; looking for opportunities in healthcare, fintech, transportation, business, geospatial and any diverse industries.
 
 ---
 
-## My Inspiration and Journey
-
-My journey of data science began during my undergrad, when my math professor asked me to buy a scientific calculator for Calculus class. I searched online for buying it. After a while, the other apps like Facebook, Instagram, YouTube, and Google started showing me targeted ads for buying calculators. This raised many questions in me about how data is managed to give me personalized recommendations and then it ultimately led me to build my career in the Data Science field.
-
-
-<img src="calci_img.png" width="600" height="400"/>
-
-Since then, I have pursued a Master’s in Applied Data Science at Indiana University, where I have gained expertise across healthcare analytics, urban planning, geospatial intelligence, and business intelligence. My internship at Christopher B. Burke Engineering provided hands-on experience applying deep learning to geospatial challenges, and my research at COMET Lab involved working with geospatial and economic datasets.
-
-I am driven by the potential of data science and machine learning to create meaningful impact whether improving healthcare outcomes, optimizing urban infrastructure, or addressing environmental challenges. I believe that combining machine learning with domain expertise can unlock powerful solutions to some of the hottest problems in technology today.
-
-With equal enthusiasm, I also served as a Professional Development Lead in a student-led club at Indiana University during my graduate studies. I helped peers craft standout ats-friendly resumes, build compelling portfolios, and navigate the job market across diverse domains.
-
----
-
-# 📁 Projects 
+# 📁 My Projects 
 
 ### 🏥 Healthcare Analytics
 - **[Heart Disease Prediction System](https://github.com/SaiJahnaviD/Heart_Disease_Prediction_ML/tree/main)** - ML model for clinical risk assessment | *Logistic Regression, Python*
@@ -85,13 +69,25 @@ With equal enthusiasm, I also served as a Professional Development Lead in a stu
 - **[CyberCrimes Analysis Database](https://github.com/SaiJahnaviD/Cyber_Crimes_Analysis_DatabaseSystem_SQL)** - Forensic incident tracking system | *SQL, MS Access, Database Design*
 
 ---
+---
 
-## You can contact me here:
+## My Inspiration and Journey
 
-- 📞 Phone: +1 (317)-289-5631
-- 📧 Email: sdamacha@iu.edu , damacharla.saijahnavi@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/saijahnavi-damacharla/
-- 📍 Location: Indianapolis, IN, USA (Open for re-location)
+My journey of data science began during my undergrad, when my math professor asked me to buy a scientific calculator for Calculus class. I searched online for buying it. After a while, the other apps like Facebook, Instagram, YouTube, and Google started showing me targeted ads for buying calculators. This raised many questions in me about how data is managed to give me personalized recommendations and then it ultimately led me to build my career in the Data Science field.
+
+<img src="calci_img.png" width="600" height="400"/>
+
+Since then, I have pursued a Master’s in Applied Data Science at Indiana University, where I have gained expertise across healthcare analytics, urban planning, geospatial intelligence, and business intelligence. My internship at Christopher B. Burke Engineering provided hands-on experience applying deep learning to geospatial challenges, and my research at COMET Lab involved working with geospatial and economic datasets.
+
+I am driven by the passion in data science and machine learning to create meaningful impact whether improving healthcare outcomes, optimizing urban infrastructure, or addressing environmental challenges. I believe that combining machine learning or any technical skills with right domain expertise can unlock powerful solutions to the hottest problems in technology today.
+
+With equal enthusiasm, I also served as a Professional Development Lead in a student-led club at Indiana University during my graduate studies. I helped peers craft standout ats-friendly resumes, build compelling portfolios, and navigate the job market across diverse domains.
+
+---
+
+## Contact Info:
+
+- +1 (317)-289-5631 | damacharla.saijahnavi@gmail.com | https://www.linkedin.com/in/saijahnavi-damacharla/
 
 ---
 
