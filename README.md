@@ -32,7 +32,7 @@
 
 # Hey, I'm Sai Jahnavi Damacharla! 
 
-## Data Science | Data Analytics | ML | DL | NLP | AI | GIS | CLOUD | Research
+## Data Science | Data Analysis | ML | DL | NLP | AI | GIS | CLOUD | Research
 
 I'm a fresh grad with a major in Applied Data Science from IU along with Computer Science background in undergrad; looking for opportunities in healthcare, fintech, transport, business, geospatial and diverse industries.
 
@@ -49,22 +49,11 @@ Since then, I have pursued a Master’s in Applied Data Science at Indiana Unive
 
 I am driven by the potential of data science and machine learning to create meaningful impact whether improving healthcare outcomes, optimizing urban infrastructure, or addressing environmental challenges. I believe that combining machine learning with domain expertise can unlock powerful solutions to some of the hottest problems in technology today.
 
-Spreading my enthusiasm to fellow hungry birds, I also served as a Professional Development Lead in a student-led club at Indiana University. I helped these eager peers craft standout resumes, build compelling portfolios, and navigate the job market across diverse domains feeding their curiosity and ambitions just like I fed mine.
+With equal enthusiasm, I also served as a Professional Development Lead in a student-led club at Indiana University during my graduate studies. I helped peers craft standout ats-friendly resumes, build compelling portfolios, and navigate the job market across diverse domains.
 
 ---
 
-## Tech-Stack 🔧 
-
-- **Programming Languages:** Python (Pandas, NumPy, ScikitLearn, Matplotlib etc.), R, SQL
-- **Tools and IDEs:** Power BI, Jupyter Notebook, Google Colab, MSAccess, R-Studio, VSCode, PyTorch, TensorFlow, Streamlit
-- **Data Analysis:** Data Cleaning and Preprocessing, EDA and Visualization, Statistical Modelling, Feature Engineering
-- **Machine Learning:** PCA, SVM, Random Forest, k-NN, Regression, Deep Learning: CNN, RNN, BERT, GAN, GPTs, LSTM
-- **NLP & AI:** Object Detection, Image Recognition and Captioning, Text Classification, Automation Techniques
-- **Geospatial Tools:** ArcGIS Pro, ArcGIS Experience Builder, ESRI, Leaflet.js, Google Earth Engine, Rasterio, PyProj, QGIS
-
----
-
-## Project Portfolio 🗃️
+# 📁 Projects 
 
 ### 🏥 Healthcare Analytics
 - **[Heart Disease Prediction System](https://github.com/SaiJahnaviD/Heart_Disease_Prediction_ML/tree/main)** - ML model for clinical risk assessment | *Logistic Regression, Python*
@@ -73,8 +62,6 @@ Spreading my enthusiasm to fellow hungry birds, I also served as a Professional 
 ### 📊 Data Analysis and Visualization
 - **[Apartment Price Prediction](https://github.com/SaiJahnaviD/Apartment_Price)** - Rental price estimator with Streamlit UI | *Random Forest, Feature Engineering*
 - **[NYC Transportation Data Analysis](https://github.com/SaiJahnaviD/TDSP_NewYork_ColumbiaUniversity/tree/main)** - Road safety insights using geospatial analysis | *Time Series, Power BI*
-
-### 💼 Business Intelligence & Marketing
 - **[Bank Marketing Campaign Analysis](https://github.com/SaiJahnaviD/Product_Subscription_Estimation-Bank-Data)** - Predict term deposit subscriptions | *Decision Trees, Classification*
 
 ###  🧮 R Language
