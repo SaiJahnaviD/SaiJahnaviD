@@ -8,7 +8,6 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://matplotlib.org/)
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://www.r-project.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.w3schools.com/sql/)
-
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)](https://www.tableau.com/learn/training)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)](https://learn.microsoft.com/en-us/power-bi/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?logo=jupyter&logoColor=white&style=for-the-badge)](https://jupyter.org/)
@@ -17,14 +16,12 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=IntelliJ-IDEA&logoColor=white&style=for-the-badge)](https://www.jetbrains.com/idea/)
 [![Cursor](https://img.shields.io/badge/Cursor-0078D7?logo=cursor&logoColor=white&style=for-the-badge)](https://www.cursor.so/)
-
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)](https://www.tensorflow.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)](https://docs.streamlit.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)](https://kubernetes.io/)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-FF4081?logo=githubactions&logoColor=white&style=for-the-badge)](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
-
 [![SQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://dev.mysql.com/doc/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
 [![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge)](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
