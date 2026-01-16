@@ -86,7 +86,7 @@ With equal enthusiasm, I also served as a Professional Development Lead in a stu
 
 ---
 
-## You can contact me by: 
+## You can contact me here:
 
 - 📞 Phone: +1 (317)-289-5631
 - 📧 Email: sdamacha@iu.edu , damacharla.saijahnavi@gmail.com
