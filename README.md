@@ -28,24 +28,22 @@
 [![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?logo=leaflet&logoColor=white&style=for-the-badge)](https://leafletjs.com/)
 [![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?logo=googleearth&logoColor=white&style=for-the-badge)](https://developers.google.com/earth-engine)
 
+---
+
+# Hey, I'm Sai Jahnavi Damacharla! 
+
+## Data Science | Data Analytics | ML | DL | NLP | AI | GIS | CLOUD | Research
+
+I'm a fresh grad with a major in Applied Data Science from IU along with Computer Science background in undergrad; looking for opportunities in healthcare, fintech, transport, business, geospatial and diverse industries.
 
 ---
 
-# Hey, I'm Sai Jahnavi Damacharla 👋
+## My Inspiration and Journey
 
-## Data Science Graduate | AI-ML | GEO-AI | DL-NLP | CLOUD TECH | Research
+My journey of data science began during my undergrad, when my math professor asked me to buy a scientific calculator for Calculus class. I searched online for buying it. After a while, the other apps like Facebook, Instagram, YouTube, and Google started showing me targeted ads for buying calculators. This raised many questions in me about how data is managed to give me personalized recommendations and then it ultimately led me to build my career in the Data Science field.
 
-I'm a Master's graduate in Applied Data Science from IU with Computer Science background, excited for using data to solve real-world problems in healthcare, fintech, transport, business, geospatial and diverse industries.
 
-💻 Seeking opportunities in Data Science & Machine Learning to solve real-world problems.
-
----
-
-## 📔 My Inspiration 🚀
-
-My journey into data science began during my undergraduate studies when my math professor asked me to buy a scientific calculator. While searching online, I noticed that soon after, platforms like Facebook, Instagram, YouTube, and Google started showing me targeted ads for calculators. This sparked my curiosity about how data drives personalized recommendations and ultimately led me to explore the Data Science field.
-
-With that inspiration, I started to focus on data science and machine learning.
+<img src="calci_img.png" width="600" height="400"/>
 
 Since then, I have pursued a Master’s in Applied Data Science at Indiana University, where I have gained expertise across healthcare analytics, urban planning, geospatial intelligence, and business intelligence. My internship at Christopher B. Burke Engineering provided hands-on experience applying deep learning to geospatial challenges, and my research at COMET Lab involved working with geospatial and economic datasets.
 
@@ -55,7 +53,7 @@ Spreading my enthusiasm to fellow hungry birds, I also served as a Professional 
 
 ---
 
-## 🔧 Tech-Stack 🧰
+## Tech-Stack 🔧 
 
 - **Programming Languages:** Python (Pandas, NumPy, ScikitLearn, Matplotlib etc.), R, SQL
 - **Tools and IDEs:** Power BI, Jupyter Notebook, Google Colab, MSAccess, R-Studio, VSCode, PyTorch, TensorFlow, Streamlit
@@ -66,7 +64,7 @@ Spreading my enthusiasm to fellow hungry birds, I also served as a Professional 
 
 ---
 
-## 📂 Project Portfolio 🗃️
+## Project Portfolio 🗃️
 
 ### 🏥 Healthcare Analytics
 - **[Heart Disease Prediction System](https://github.com/SaiJahnaviD/Heart_Disease_Prediction_ML/tree/main)** - ML model for clinical risk assessment | *Logistic Regression, Python*
@@ -78,29 +76,35 @@ Spreading my enthusiasm to fellow hungry birds, I also served as a Professional 
 
 ### 💼 Business Intelligence & Marketing
 - **[Bank Marketing Campaign Analysis](https://github.com/SaiJahnaviD/Product_Subscription_Estimation-Bank-Data)** - Predict term deposit subscriptions | *Decision Trees, Classification*
+
+###  🧮 R Language
 - **[Spotify Music Analytics Dashboard](https://github.com/SaiJahnaviD/Spotify_DataDive)** - Track popularity and trends analysis | *R, ggplot2, Statistical Modeling*
 
-### 🤖 AI & Deep Learning
-- **[Image Caption Generator](https://github.com/SaiJahnaviD/Image_Caption_Generator_Computer-Vision)** - CNN+LSTM model for automated image descriptions | *Computer Vision, NLP*
+### 🧠 Deep Learning
 - **[Image Real or AI Detector](https://github.com/SaiJahnaviD/Image_Identification_AI-or-Real_Computer-Vision)** - CNN classifier for AI-generated content | *Transfer Learning, CNNs*
 - **[Movie Recommendation System](https://github.com/SaiJahnaviD/Movie_Recommendation_System_DeepLearning)** - Collaborative filtering for personalized suggestions | *Matrix Factorization*
+
+### 🤖 AI 
 - **[Generative-AI-Chatbot](https://github.com/SaiJahnaviD/Generative-AI-Chatbot)** - Multi-model conversational chatbot | *LLaMA, GPT, Groq, Streamlit, Docker*
+
+### 👁️ Computer Vision
+- **[Image Caption Generator](https://github.com/SaiJahnaviD/Image_Caption_Generator_Computer-Vision)** - CNN+LSTM model for automated image descriptions | *Computer Vision, NLP*
 
 ### 💬 Natural Language Processing
 - **[Contextual Metaphor Detection](https://github.com/SaiJahnaviD/Metaphor_Detection_NLP)** - BERT-based figurative language classifier | *BERT, Text Classification*
 - **[Resume-Based Job Recommender](https://github.com/SaiJahnaviD/Resume-based_Job_Recommender_AI)** - NLP-powered career matching system | *Deep Learning, Recommender Systems*
 
-### 🔒 Security & Database Systems
+### 🛢️ SQL-Database Systems
 - **[CyberCrimes Analysis Database](https://github.com/SaiJahnaviD/Cyber_Crimes_Analysis_DatabaseSystem_SQL)** - Forensic incident tracking system | *SQL, MS Access, Database Design*
 
 ---
 
-## 📫 Let's Connect Here: 
+## You can contact me by: 
 
 - 📞 Phone: +1 (317)-289-5631
 - 📧 Email: sdamacha@iu.edu , damacharla.saijahnavi@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/saijahnavi-damacharla/
-- 📍 Location: Indianapolis, IN, USA
+- 📍 Location: Indianapolis, IN, USA (Open for re-location)
 
 ---
 
