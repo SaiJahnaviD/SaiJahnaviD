@@ -29,11 +29,11 @@
 [![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?logo=googleearth&logoColor=white&style=for-the-badge)](https://developers.google.com/earth-engine)
 
 ---
-## Data Science | Data Analysis | ML | DL | NLP | AI | GIS | CLOUD | Research
+## Data Science | Data Analysis | ML | DL | NLP | AI | GIS | Cloud Computing | Research
 
 # Hey, I am Sai Jahnavi Damacharla!
 
-I'm a fresh grad with a major in Applied Data Science from IU along with Computer Science background in undergrad; looking for opportunities in healthcare, fintech, transportation, business, geospatial and any diverse industries.
+I'm a fresh grad with a major in Applied Data Science from IU along with Computer Science background in undergrad; looking for opportunities in healthcare, fintech, transportation, business, geospatial and other tech-industries.
 
 ---
 
@@ -69,7 +69,6 @@ I'm a fresh grad with a major in Applied Data Science from IU along with Compute
 - **[CyberCrimes Analysis Database](https://github.com/SaiJahnaviD/Cyber_Crimes_Analysis_DatabaseSystem_SQL)** - Forensic incident tracking system | *SQL, MS Access, Database Design*
 
 ---
----
 
 ## My Inspiration and Journey
 
@@ -87,7 +86,7 @@ With equal enthusiasm, I also served as a Professional Development Lead in a stu
 
 ## Contact Info:
 
-- +1 (317)-289-5631 | damacharla.saijahnavi@gmail.com | https://www.linkedin.com/in/saijahnavi-damacharla/
+ +1(317)-289-5631 | damacharla.saijahnavi@gmail.com | [LinkedIn](https://www.linkedin.com/in/saijahnavi-damacharla/)
 
 ---
 
