@@ -40,11 +40,13 @@ I'm a fresh grad with a major in Applied Data Science from IU along with Compute
 # 📁 My Projects 
 
 ### 📊 Data Analysis and Visualization
-- **[Apartment Price Prediction](https://github.com/SaiJahnaviD/Apartment_Price)** - Rental price estimator with Streamlit UI | *Random Forest, Feature Engineering*
 - **[NYC Transportation Data Analysis](https://github.com/SaiJahnaviD/TDSP_NewYork_ColumbiaUniversity/tree/main)** - Road safety insights using geospatial analysis | *Time Series, Power BI*
 - **[Bank Marketing Campaign Analysis](https://github.com/SaiJahnaviD/Product_Subscription_Estimation-Bank-Data)** - Predict term deposit subscriptions | *Decision Trees, Classification*
 
-###  🧮 R Language
+### ⚙️ Machine Learning 
+- **[Apartment Price Prediction](https://github.com/SaiJahnaviD/Apartment_Price)** - Rental price estimator with Streamlit UI | *Random Forest, Feature Engineering*
+
+### 🧮 R Language
 - **[Spotify Music Analytics Dashboard](https://github.com/SaiJahnaviD/Spotify_DataDive)** - Track popularity and trends analysis | *R, ggplot2, Statistical Modeling*
 
 ### 🧠 Deep Learning
