@@ -39,10 +39,6 @@ I'm a fresh grad with a major in Applied Data Science from IU along with Compute
 
 # 📁 My Projects 
 
-### 🏥 Healthcare Analytics
-- **[Heart Disease Prediction System](https://github.com/SaiJahnaviD/Heart_Disease_Prediction_ML/tree/main)** - ML model for clinical risk assessment | *Logistic Regression, Python*
-- **[Diabetes Adverse Risk Prediction](https://github.com/SaiJahnaviD/Diabetes_Adverse_Risk_Prediction_System_using_Cloud-GCP)** - GCP-deployed predictive system | *Cloud ML, Healthcare*
-
 ### 📊 Data Analysis and Visualization
 - **[Apartment Price Prediction](https://github.com/SaiJahnaviD/Apartment_Price)** - Rental price estimator with Streamlit UI | *Random Forest, Feature Engineering*
 - **[NYC Transportation Data Analysis](https://github.com/SaiJahnaviD/TDSP_NewYork_ColumbiaUniversity/tree/main)** - Road safety insights using geospatial analysis | *Time Series, Power BI*
@@ -53,7 +49,6 @@ I'm a fresh grad with a major in Applied Data Science from IU along with Compute
 
 ### 🧠 Deep Learning
 - **[Image Real or AI Detector](https://github.com/SaiJahnaviD/Image_Identification_AI-or-Real_Computer-Vision)** - CNN classifier for AI-generated content | *Transfer Learning, CNNs*
-- **[Movie Recommendation System](https://github.com/SaiJahnaviD/Movie_Recommendation_System_DeepLearning)** - Collaborative filtering for personalized suggestions | *Matrix Factorization*
 
 ### 🤖 AI 
 - **[Generative-AI-Chatbot](https://github.com/SaiJahnaviD/Generative-AI-Chatbot)** - Multi-model conversational chatbot | *LLaMA, GPT, Groq, Streamlit, Docker*
@@ -63,10 +58,12 @@ I'm a fresh grad with a major in Applied Data Science from IU along with Compute
 
 ### 💬 Natural Language Processing
 - **[Contextual Metaphor Detection](https://github.com/SaiJahnaviD/Metaphor_Detection_NLP)** - BERT-based figurative language classifier | *BERT, Text Classification*
-- **[Resume-Based Job Recommender](https://github.com/SaiJahnaviD/Resume-based_Job_Recommender_AI)** - NLP-powered career matching system | *Deep Learning, Recommender Systems*
 
-### 🛢️ SQL-Database Systems
+### 🛢️ SQL + Database Design
 - **[CyberCrimes Analysis Database](https://github.com/SaiJahnaviD/Cyber_Crimes_Analysis_DatabaseSystem_SQL)** - Forensic incident tracking system | *SQL, MS Access, Database Design*
+
+### ☁️ Cloud Computing
+- **[Diabetes Adverse Risk Prediction](https://github.com/SaiJahnaviD/Diabetes_Adverse_Risk_Prediction_System_using_Cloud-GCP)** - GCP-deployed predictive system | *Cloud ML, Healthcare*
 
 ---
 
