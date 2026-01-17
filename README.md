@@ -1,39 +1,43 @@
 
 <img src="banner_DSJ.png" width="100%" alt="Jahnavi - Data Scientist Banner" />
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)](https://numpy.org/)
-[![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)](https://scikit-learn.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://matplotlib.org/)
-[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://www.r-project.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.w3schools.com/sql/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)](https://www.tableau.com/learn/training)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)](https://learn.microsoft.com/en-us/power-bi/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?logo=jupyter&logoColor=white&style=for-the-badge)](https://jupyter.org/)
-[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black&style=for-the-badge)](https://colab.research.google.com/)
-[![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge)](https://www.rstudio.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=IntelliJ-IDEA&logoColor=white&style=for-the-badge)](https://www.jetbrains.com/idea/)
-[![Cursor](https://img.shields.io/badge/Cursor-0078D7?logo=cursor&logoColor=white&style=for-the-badge)](https://www.cursor.so/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)](https://www.tensorflow.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)](https://docs.streamlit.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)](https://kubernetes.io/)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-FF4081?logo=githubactions&logoColor=white&style=for-the-badge)](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
-[![SQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://dev.mysql.com/doc/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
-[![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge)](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
-[![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?logo=leaflet&logoColor=white&style=for-the-badge)](https://leafletjs.com/)
-[![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?logo=googleearth&logoColor=white&style=for-the-badge)](https://developers.google.com/earth-engine)
+
+<p align="left">
+<a href="https://www.python.org/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32"/></a>
+<a href="https://pandas.pydata.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32" height="32"/></a>
+<a href="https://numpy.org/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="32" height="32"/></a>
+<a href="https://scikit-learn.org/stable/documentation.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="32" height="32"/></a>
+<a href="https://matplotlib.org/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="32" height="32"/></a>
+<a href="https://www.r-project.org/other-docs.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="32" height="32"/></a>
+<a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" height="32"/></a>
+<a href="https://powerbi.microsoft.com/en-us/learning/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" width="32" height="32"/></a>
+<a href="https://www.tableau.com/learn/training" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="32" height="32"/></a>
+<a href="https://jupyter.org/documentation" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="32" height="32"/></a>
+<a href="https://colab.research.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="32" height="32"/></a>
+<a href="https://learn.microsoft.com/en-us/office/client-developer/access/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-access-2013.svg" width="32" height="32"/></a>
+<a href="https://posit.co/products/open-source/rstudio/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="32" height="32"/></a>
+<a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32" height="32"/></a>
+<a href="https://docs.streamlit.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="32" height="32"/></a>
+<a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" height="32"/></a>
+<a href="https://www.tensorflow.org/learn" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="32" height="32"/></a>
+<a href="https://pytorch.org/docs/stable/index.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32" height="32"/></a>
+<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="32" height="32"/></a>
+<a href="https://huggingface.co/docs" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32"/></a>
+<a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32"/></a>
+<a href="https://cloud.google.com/docs" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="32" height="32"/></a>
+<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="32" height="32"/></a>
+<a href="https://docs.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" height="32"/></a>
+<a href="https://kubernetes.io/docs/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="32" height="32"/></a>
+<a href="https://git-scm.com/doc" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" height="32"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="32" height="32"/></a>
+</p>
 
 ---
 ## Data Science | Data Analysis | ML | DL | NLP | AI | GIS | Cloud Computing | Research
 
 # Hey, I am Sai Jahnavi Damacharla!
 
-I'm a fresh grad with a major in Applied Data Science from IU along with Computer Science background in undergrad; looking for opportunities in healthcare, fintech, transportation, business, geospatial and other tech-industries.
+I'm a fresh grad with a major in Applied Data Science from IU along with Computer Science background in undergrad; looking for opportunities in healthcare, fintech, transportation, media, business and any tech-industries.
 
 ---
 
@@ -84,9 +88,14 @@ With equal enthusiasm, I also served as a Professional Development Lead in a stu
 
 ---
 
-## Contact Info:
-
- +1(317)-289-5631 | damacharla.saijahnavi@gmail.com | [LinkedIn](https://www.linkedin.com/in/saijahnavi-damacharla/)
+## 📬 Contact Me
+<p>
+📧 <b>Email:</b> damacharla.saijahnavi@gmail.com <br>
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/saijahnavi-damacharla/">https://www.linkedin.com/in/saijahnavi-damacharla/</a> <br>
+💻 <b>GitHub:</b> <a href="https://github.com/SaiJahnaviD">https://github.com/SaiJahnaviD</a> <br>
+🌐 <b>Portfolio:</b> <a href="https://dasaja.designfolio.me/">https://dasaja.designfolio.me/</a> <br>
+📍 <b>Location:</b> USA
+</p>
 
 ---
 
