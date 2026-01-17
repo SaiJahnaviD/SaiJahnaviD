@@ -85,7 +85,7 @@ With equal enthusiasm, I also served as a Professional Development Lead in a stu
 
 ## 📬 Contact Me
 <p>
-📧 <b>Email:</b> damacharla.saijahnavi@gmail.com <br>
+📧 <b>Email:</b> damacharla.saijahnavi@gmail.com ; sdamacha@iu.edu <br>
 💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/saijahnavi-damacharla/">https://www.linkedin.com/in/saijahnavi-damacharla/</a> <br>
 💻 <b>GitHub:</b> <a href="https://github.com/SaiJahnaviD">https://github.com/SaiJahnaviD</a> <br>
 🌐 <b>Portfolio:</b> <a href="https://dasaja.designfolio.me/">https://dasaja.designfolio.me/</a> <br>
