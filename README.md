@@ -83,6 +83,8 @@ With equal enthusiasm, I also served as a Professional Development Lead in a stu
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=SaiJahnaviD&label=Profile%20Views&color=0e75b6&style=flat)
+
 ## 📬 Contact Me
 <p>
 📧 <b>Email:</b> damacharla.saijahnavi@gmail.com ; sdamacha@iu.edu <br>
