@@ -75,7 +75,7 @@ My journey of data science began during my undergrad, when my math professor ask
 
 <img src="calci_img.png" width="600" height="400"/>
 
-Since then, I have pursued a Master’s in Applied Data Science at Indiana University, where I have gained expertise across healthcare analytics, urban planning, geospatial intelligence, and business intelligence. My internship at Christopher B. Burke Engineering provided hands-on experience applying deep learning to geospatial challenges, and my research at COMET Lab involved working with geospatial and economic datasets.
+Since then, I have pursued a Master’s in Applied Data Science at Indiana University, where I have gained expertise across healthcare analytics, urban planning, geospatial intelligence, and business intelligence. My internship at Christopher B. Burke Engineering provided hands-on experience applying data skills to answer challenges, and my research at COMET Lab involved working with spatial and economic datasets.
 
 I am driven by the passion in data science and machine learning to create meaningful impact whether improving healthcare outcomes, optimizing urban infrastructure, or addressing environmental challenges. I believe that combining machine learning or any technical skills with right domain expertise can unlock powerful solutions to the hottest problems in technology today.
 
