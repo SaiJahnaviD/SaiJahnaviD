@@ -91,6 +91,7 @@ With equal enthusiasm, I also served as a Professional Development Lead in a stu
 💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/saijahnavi-damacharla/">https://www.linkedin.com/in/saijahnavi-damacharla/</a> <br>
 💻 <b>GitHub:</b> <a href="https://github.com/SaiJahnaviD">https://github.com/SaiJahnaviD</a> <br>
 🌐 <b>Portfolio:</b> <a href="https://dasaja.designfolio.me/">https://dasaja.designfolio.me/</a> <br>
+🤝 <b>Handshake Profile:</b> <a href="https://app.joinhandshake.com/profiles/sai-jahnavi-damacharla/">https://app.joinhandshake.com/profiles/sai-jahnavi-damacharla</a> <br>
 📍 <b>Location:</b> USA
 </p>
 
