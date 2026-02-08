@@ -45,56 +45,70 @@ I'm a fresh grad with a major in Applied Data Science from IUI along with Comput
 ### a) 📊 Customer Analytics and Business Intelligence
 
 - **[Customer Segmentation & RFM Analysis](https://github.com/SaiJahnaviD/Customer_Segmentation_and_Retention_Analysis)** - End-to-end customer analytics pipeline including data cleaning, EDA, cohort analysis, RFM segmentation, Pareto analysis, K-Means clustering, and market basket analysis to drive retention strategies.
+
   - *EDA, RFM, Clustering, Cohort Analysis, Market Basket Analysis, RFM metrics, K- means clustering, PowerBI Dashboard*
 
+
 - **[Bank Marketing Campaign Analysis for Product Subscription](https://github.com/SaiJahnaviD/Product_Subscription_Estimation-Bank-Data)** - Built predictive models to estimate term deposit subscriptions and deliver actionable insights for campaign optimization and stakeholder decision-making.
-  - *Classification, Decision Trees, K-NN, Logistic Regression, StandardScaler, Marketing Analytics*
+
+   - *Classification, Decision Trees, K-NN, Logistic Regression, StandardScaler, Marketing Analytics*
 
 ---
     
 ### b) 🚀 Causal Machine Learning - Uplift Modeling
 
 - **[Uplift Modeling (XGBoost – S-Learner)](https://github.com/SaiJahnaviD/Uplift-Modeling-using-causal-Machine-Learning-XGBoost-S-Learner-)** - Predicted individual customer treatment effects to identify who is most likely to respond positively to marketing campaigns, maximizing ROI through uplift modeling.
-  - *Causal Inference, Uplift Modeling, XGBoost, S-Learner, Scikit-learn, Experimental Design, A/B Testing, Marketing Analytics*
+
+   - *Causal Inference, Uplift Modeling, XGBoost, S-Learner, Scikit-learn, Experimental Design, A/B Testing, Marketing Analytics*
 ---
 
 ### c) ⏳ Time Series Modeling and Demand Forecasting
 
 - **[Time Series Modeling and Demand Forecasting](https://github.com/SaiJahnaviD/Time_Series_Modeling_and_Demand_Forecasting)** - Implemented ARIMA and SARIMA models to forecast product demand and analyze seasonal and trend components.
+
   - *Time Series Analysis, ARIMA, SARIMA models, Evaluation Metrics: RMSE,R^2 Financial and Investment Analysis*
 
 ---
 ### d) ☁️⚙️ Google Cloud Deployment of ML model for Patient Risk Analysis - Realtime
 
 - **[Diabetes Adverse Risk Prediction](https://github.com/SaiJahnaviD/Diabetes_Adverse_Risk_Prediction_System_using_Cloud-GCP)** - Real-time healthcare prediction system using Google Cloud Platform for monitoring patient vitals and predicting health risks.
-  - *Cloud ML, Flask API, Cloud Functions (Gen 2), Pub/Sub, BigQuery, Cloud Storage, Cloud Scheduler, Tensor Flow, Healthcare*
+
+   - *Cloud ML, Flask API, Cloud Functions (Gen 2), Pub/Sub, BigQuery, Cloud Storage, Cloud Scheduler, Tensor Flow, Healthcare*
 
 
 ---
 
-## 2. 📈 Data Analysis & Visualization Projects
+## 2. 📈 Data Analysis and Visualization Projects
 
 - **[NYC Transportation and Road Safety Analysis](https://github.com/SaiJahnaviD/TDSP_NewYork_ColumbiaUniversity)** - Analyzed NYC motor vehicle collision data using geospatial analysis and time-series trends to identify accident hotspots and road safety insights.
-  - *Geospatial Analysis, Time Series, Urban Analytics, Version Control, Power BI Dashboard*
+
+   - *Geospatial Analysis, Time Series, Urban Analytics, Version Control, Power BI Dashboard*
+
 
 - **[Spotify Music Analytics (R-Language)](https://github.com/SaiJahnaviD/Spotify_DataDive)** - Explored music popularity, genre trends, and user listening behavior using statistical modeling and advanced visualizations in R.
+
   - *R, dplyr, tidyr, ggplot2, readr, readxl, R markdown, Quarto, Statistical Analysis- EDA, ETL*
 
+
 - **[Apartment Price Prediction using ML](https://github.com/SaiJahnaviD/Apartment_Price)** - A project that integrates data filtering, scoring, machine learning predictions, and recommendation systems to create a comprehensive solution for rental property searches using ML models. 
-  - *Data Filtering, Scoring System, PCA, Streamlit, Backblaze, Pickle, Count-Vectorizer, Cosine Similarity, Random Forest, Feature Engineering*
+
+   - *Data Filtering, Scoring System, PCA, Streamlit, Backblaze, Pickle, Count-Vectorizer, Cosine Similarity, Random Forest, Feature Engineering*
 
 ---
 ## 3. 🛢️ SQL : Database Systems + 🧮 Advanced Excel Projects
 
 - **[Cyber Crimes Analysis Database System](https://github.com/SaiJahnaviD/Cyber_Crimes_Analysis_DatabaseSystem_SQL)** - Designed and implemented a relational database for cybercrime incident tracking, querying, and forensic analysis.
-  - *SQL(DDL, DML), Database Design, MS-Access, Relational Database Management, ER-Diagram, Normalization, Data Integrity and Security Features*
+
+   - *SQL(DDL, DML), Database Design, MS-Access, Relational Database Management, ER-Diagram, Normalization, Data Integrity and Security Features*
 
 
 - **[Advanced SQL for Social Media User Engagement](https://github.com/SaiJahnaviD/Advanced_SQL_for_User_Engagement_SocialMedia)** - Performed advanced SQL analysis to measure user engagement patterns and behavioral metrics across social media platforms.
-  - *Advanced SQL Queries (JOINS, GROUP BY, ORDER BY, CTEs, HAVING), Analytics Queries, User Insights, Hashtag Trends, Bot Detection, MySQL Workbench, MySQL*
+
+   - *Advanced SQL Queries (JOINS, GROUP BY, ORDER BY, CTEs, HAVING), Analytics Queries, User Insights, Hashtag Trends, Bot Detection, MySQL Workbench, MySQL*
 
 
 - **[Advanced Excel Project using IMDB Data](https://github.com/SaiJahnaviD/Advanced_Excel_Project_using_IMDB_Data)** - Conducted advanced Excel-based analysis using formulas, pivot tables, dashboards, and business insights from IMDB movie data.
+
   - *Advanced Excel, Excel Statistics and Formulae, Data Analysis, Profit Calculations, Popularity and Trend Analysis*
 
 ---
@@ -113,6 +127,7 @@ I'm a fresh grad with a major in Applied Data Science from IUI along with Comput
 
 ## 5. 📄 My Technical Document on Naive-Bayes Classifier : Mathematical Approach
 - **[Naive Bayes Classifier](https://hackmd.io/@SaiJahnaviDamacharla/BJ7k9c4W-x)** - Explains all aspects of Naive Bayes Model with application case study and pseudocode.
+
   - *Mathematics for ML, Training, Prediction, Variants, Practicality, Technical Writing, Research*
 
 
