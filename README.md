@@ -55,7 +55,7 @@ I'm a fresh grad with a major in Applied Data Science from IUI along with Comput
 
 ---
     
-### b) 🚀 Causal Machine Learning - Uplift Modeling
+### b) 🚀 Causal Machine Learning - Uplift Modeling and Experimentation
 
 - **[Uplift Modeling (XGBoost – S-Learner)](https://github.com/SaiJahnaviD/Uplift-Modeling-using-causal-Machine-Learning-XGBoost-S-Learner-)** - Predicted individual customer treatment effects to identify who is most likely to respond positively to marketing campaigns, maximizing ROI through uplift modeling.
 
