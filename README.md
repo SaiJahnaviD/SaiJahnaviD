@@ -46,7 +46,7 @@ I'm a fresh grad with Masters' in Applied Data Science from Indiana University I
 
 - **[Customer Segmentation & RFM Analysis](https://github.com/SaiJahnaviD/Customer_Segmentation_and_Retention_Analysis)** - End-to-end customer analytics pipeline including data cleaning, EDA, cohort analysis, RFM segmentation, Pareto analysis, K-Means clustering, and market basket analysis to drive retention strategies.
 
-  - *EDA, RFM, Clustering, Cohort Analysis, Market Basket Analysis, RFM metrics, K- means clustering, PowerBI Dashboard*
+  - *EDA, RFM, Clustering, Cohort Analysis, Market Basket Analysis, RFM metrics, K- means clustering, PowerBI Dashboard, KPI Monitoring*
 
 
 - **[Bank Marketing Campaign Analysis for Product Subscription](https://github.com/SaiJahnaviD/Product_Subscription_Estimation-Bank-Data)** - Built predictive models to estimate term deposit subscriptions and deliver actionable insights for campaign optimization and stakeholder decision-making.
