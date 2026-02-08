@@ -26,7 +26,7 @@
 <a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32"/></a>
 <a href="https://cloud.google.com/docs" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="32" height="32"/></a>
 <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="32" height="32"/></a>
-<a href="https://docs.databricks.com/" target="_blank">   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="32" height="32"/> </a>
+<!-- <a href="https://docs.databricks.com/" target="_blank">   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="32" height="32"/> </a> -->
 </p>
 
 ---
