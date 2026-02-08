@@ -66,7 +66,7 @@ I'm a fresh grad with Masters' in Applied Data Science from Indiana University I
 
 - **[Time Series Modeling and Demand Forecasting](https://github.com/SaiJahnaviD/Time_Series_Modeling_and_Demand_Forecasting)** - Implemented ARIMA and SARIMA models to forecast product demand and analyze seasonal and trend components.
 
-  - *Time Series Analysis, ARIMA, SARIMA models, Evaluation Metrics: RMSE,R^2 Financial and Investment Analysis*
+  - *Time Series Analysis, ARIMA, SARIMA models, Evaluation Metrics: RMSE, R², Financial and Investment Analysis*
 
 ---
 ### d) ☁️⚙️ Google Cloud Deployment of ML model for Patient Risk Analysis - Realtime
