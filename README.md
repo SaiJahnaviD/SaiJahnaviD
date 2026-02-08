@@ -33,7 +33,7 @@
 
 # Hey, I am Sai Jahnavi Damacharla!
 
-I'm a fresh grad with a major in Applied Data Science from IU along with Computer Science background in undergrad; looking for opportunities in healthcare, fintech, transportation, media, business and any tech-industries.
+I'm a fresh grad with a major in Applied Data Science from IUI along with Computer Science background in undergrad; looking for opportunities in healthcare, fintech, transportation, media, business and any tech-industries.
 
 ---
 
@@ -98,5 +98,4 @@ With equal enthusiasm, I also served as a Professional Development Lead in a stu
 ---
 
 ⭐ *Feel free to explore my repositories and reach out for collaborations!*
-
 
