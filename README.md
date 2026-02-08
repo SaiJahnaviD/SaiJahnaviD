@@ -147,9 +147,9 @@ With equal enthusiasm, I also served as a Professional Development Lead in a stu
 
 ---
 
-## 🧩 Other than Technical Profeciency, I can bring to my desk - 
+## 🧩 Other than Technical Profeciency, I can bring to the desk - 
 
-- Disciplined and Organised Thoughts
+- Organized Thoughts to Identify and Solve Problem
 - Product Thinking and Team Skills
 - Curious Engagement and Continous Learning
   
