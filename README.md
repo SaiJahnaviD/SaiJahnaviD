@@ -37,39 +37,88 @@ I'm a fresh grad with a major in Applied Data Science from IUI along with Comput
 
 ---
 
-# 📁 My Projects 
+# 📁 My Projects 🧑‍💻
 
-### 📊 Data Analysis and Visualization
-- **[NYC Transportation Data Analysis](https://github.com/SaiJahnaviD/TDSP_NewYork_ColumbiaUniversity/tree/main)** - Road safety insights using geospatial analysis | *Time Series, Power BI*
-- **[Bank Marketing Campaign Analysis](https://github.com/SaiJahnaviD/Product_Subscription_Estimation-Bank-Data)** - Predict term deposit subscriptions | *Decision Trees, Classification*
 
-### ⚙️ Machine Learning 
-- **[Apartment Price Prediction](https://github.com/SaiJahnaviD/Apartment_Price)** - Rental price estimator with Streamlit UI | *Random Forest, Feature Engineering*
+## 1. 💻 Data Science Projects
+---
+### a) 📊 Customer Analytics and Business Intelligence
 
-### 🧮 R Language
-- **[Spotify Music Analytics Dashboard](https://github.com/SaiJahnaviD/Spotify_DataDive)** - Track popularity and trends analysis | *R, ggplot2, Statistical Modeling*
+- **[Customer Segmentation & RFM Analysis](https://github.com/SaiJahnaviD/Customer_Segmentation_and_Retention_Analysis)** - End-to-end customer analytics pipeline including data cleaning, EDA, cohort analysis, RFM segmentation, Pareto analysis, K-Means clustering, and market basket analysis to drive retention strategies.
+  - *EDA, RFM, Clustering, Cohort Analysis, Market Basket Analysis, RFM metrics, K- means clustering, PowerBI Dashboard*
 
-### 🧠 Deep Learning
-- **[Image Real or AI Detector](https://github.com/SaiJahnaviD/Image_Identification_AI-or-Real_Computer-Vision)** - CNN classifier for AI-generated content | *Transfer Learning, CNNs*
+- **[Bank Marketing Campaign Analysis for Product Subscription](https://github.com/SaiJahnaviD/Product_Subscription_Estimation-Bank-Data)** - Built predictive models to estimate term deposit subscriptions and deliver actionable insights for campaign optimization and stakeholder decision-making.
+  - *Classification, Decision Trees, K-NN, Logistic Regression, StandardScaler, Marketing Analytics*
 
-### 🤖 AI 
-- **[Generative-AI-Chatbot](https://github.com/SaiJahnaviD/Generative-AI-Chatbot)** - Multi-model conversational chatbot | *LLaMA, GPT, Groq, Streamlit, Docker*
+---
+    
+### b) 🚀 Causal Machine Learning - Uplift Modeling
 
-### 👁️ Computer Vision
-- **[Image Caption Generator](https://github.com/SaiJahnaviD/Image_Caption_Generator_Computer-Vision)** - CNN+LSTM model for automated image descriptions | *Computer Vision, NLP*
+- **[Uplift Modeling (XGBoost – S-Learner)](https://github.com/SaiJahnaviD/Uplift-Modeling-using-causal-Machine-Learning-XGBoost-S-Learner-)** - Predicted individual customer treatment effects to identify who is most likely to respond positively to marketing campaigns, maximizing ROI through uplift modeling.
+  - *Causal Inference, Uplift Modeling, XGBoost, S-Learner, Scikit-learn, Experimental Design, A/B Testing, Marketing Analytics*
+---
 
-### 💬 Natural Language Processing
-- **[Contextual Metaphor Detection](https://github.com/SaiJahnaviD/Metaphor_Detection_NLP)** - BERT-based figurative language classifier | *BERT, Text Classification*
+### c) ⏳ Time Series Modeling and Demand Forecasting
 
-### 🛢️ SQL + Database Design
-- **[CyberCrimes Analysis Database](https://github.com/SaiJahnaviD/Cyber_Crimes_Analysis_DatabaseSystem_SQL)** - Forensic incident tracking system | *SQL, MS Access, Database Design*
+- **[Time Series Modeling and Demand Forecasting](https://github.com/SaiJahnaviD/Time_Series_Modeling_and_Demand_Forecasting)** - Implemented ARIMA and SARIMA models to forecast product demand and analyze seasonal and trend components.
+  - *Time Series Analysis, ARIMA, SARIMA models, Evaluation Metrics: RMSE,R^2 Financial and Investment Analysis*
 
-### ☁️ Cloud Computing
-- **[Diabetes Adverse Risk Prediction](https://github.com/SaiJahnaviD/Diabetes_Adverse_Risk_Prediction_System_using_Cloud-GCP)** - GCP-deployed predictive system | *Cloud ML, Healthcare*
+---
+### d) ☁️⚙️ Google Cloud Deployment of ML model for Patient Risk Analysis - Realtime
+
+- **[Diabetes Adverse Risk Prediction](https://github.com/SaiJahnaviD/Diabetes_Adverse_Risk_Prediction_System_using_Cloud-GCP)** - Real-time healthcare prediction system using Google Cloud Platform for monitoring patient vitals and predicting health risks.
+  - *Cloud ML, Flask API, Cloud Functions (Gen 2), Pub/Sub, BigQuery, Cloud Storage, Cloud Scheduler, Tensor Flow, Healthcare*
+
 
 ---
 
-## My Inspiration and Journey
+## 2. 📈 Data Analysis & Visualization Projects
+
+- **[NYC Transportation and Road Safety Analysis](https://github.com/SaiJahnaviD/TDSP_NewYork_ColumbiaUniversity)** - Analyzed NYC motor vehicle collision data using geospatial analysis and time-series trends to identify accident hotspots and road safety insights.
+  - *Geospatial Analysis, Time Series, Urban Analytics, Version Control, Power BI Dashboard*
+
+- **[Spotify Music Analytics (R-Language)](https://github.com/SaiJahnaviD/Spotify_DataDive)** - Explored music popularity, genre trends, and user listening behavior using statistical modeling and advanced visualizations in R.
+  - *R, dplyr, tidyr, ggplot2, readr, readxl, R markdown, Quarto, Statistical Analysis- EDA, ETL*
+
+- **[Apartment Price Prediction using ML](https://github.com/SaiJahnaviD/Apartment_Price)** - A project that integrates data filtering, scoring, machine learning predictions, and recommendation systems to create a comprehensive solution for rental property searches using ML models. 
+  - *Data Filtering, Scoring System, PCA, Streamlit, Backblaze, Pickle, Count-Vectorizer, Cosine Similarity, Random Forest, Feature Engineering*
+
+---
+## 3. 🛢️ SQL : Database Systems + 🧮 Advanced Excel Projects
+
+- **[Cyber Crimes Analysis Database System](https://github.com/SaiJahnaviD/Cyber_Crimes_Analysis_DatabaseSystem_SQL)** - Designed and implemented a relational database for cybercrime incident tracking, querying, and forensic analysis.
+  - *SQL(DDL, DML), Database Design, MS-Access, Relational Database Management, ER-Diagram, Normalization, Data Integrity and Security Features*
+
+
+- **[Advanced SQL for Social Media User Engagement](https://github.com/SaiJahnaviD/Advanced_SQL_for_User_Engagement_SocialMedia)** - Performed advanced SQL analysis to measure user engagement patterns and behavioral metrics across social media platforms.
+  - *Advanced SQL Queries (JOINS, GROUP BY, ORDER BY, CTEs, HAVING), Analytics Queries, User Insights, Hashtag Trends, Bot Detection, MySQL Workbench, MySQL*
+
+
+- **[Advanced Excel Project using IMDB Data](https://github.com/SaiJahnaviD/Advanced_Excel_Project_using_IMDB_Data)** - Conducted advanced Excel-based analysis using formulas, pivot tables, dashboards, and business insights from IMDB movie data.
+  - *Advanced Excel, Excel Statistics and Formulae, Data Analysis, Profit Calculations, Popularity and Trend Analysis*
+
+---
+
+## 4. 🧠 Deep Learning + 💬 NLP + 👁️ Computer Vision + 🤖 AI Projects
+
+- **[Image Real or AI Detector](https://github.com/SaiJahnaviD/Image_Identification_AI-or-Real_Computer-Vision)** - CNN classifier for AI-generated content | *Transfer Learning, CNNs*
+
+- **[Contextual Metaphor Detection](https://github.com/SaiJahnaviD/Metaphor_Detection_NLP)** - BERT-based figurative language classifier | *BERT, Text Classification*
+
+- **[Image Caption Generator](https://github.com/SaiJahnaviD/Image_Caption_Generator_Computer-Vision)** - CNN+LSTM model for automated image descriptions | *Computer Vision, NLP*
+
+- **[Generative-AI-Chatbot](https://github.com/SaiJahnaviD/Generative-AI-Chatbot)** - Multi-model conversational chatbot | *LLaMA, GPT, Groq, Streamlit, Docker*
+
+---
+
+## 5. 📄 My Technical Document on Naive-Bayes Classifier : Mathematical Approach
+- **[Naive Bayes Classifier](https://hackmd.io/@SaiJahnaviDamacharla/BJ7k9c4W-x)** - Explains all aspects of Naive Bayes Model with application case study and pseudocode.
+  - *Mathematics for ML, Training, Prediction, Variants, Practicality, Technical Writing, Research*
+
+
+---
+
+# 💡 My Inspiration and Journey 
 
 My journey of data science began during my undergrad, when my math professor asked me to buy a scientific calculator for Calculus class. I searched online for buying it. After a while, the other apps like Facebook, Instagram, YouTube, and Google started showing me targeted ads for buying calculators. This raised many questions in me about how data is managed to give me personalized recommendations and then it ultimately led me to build my career in the Data Science field.
 
@@ -83,6 +132,14 @@ With equal enthusiasm, I also served as a Professional Development Lead in a stu
 
 ---
 
+## 🧩 Other than Technical Profeciency, I can bring to my desk - 
+
+- Disciplined and Organised Thoughts
+- Product Thinking and Team Skills
+- Curious Engagement and Continous Learning
+  
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SaiJahnaviD&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 📬 Contact Me
@@ -92,7 +149,7 @@ With equal enthusiasm, I also served as a Professional Development Lead in a stu
 💻 <b>GitHub:</b> <a href="https://github.com/SaiJahnaviD">https://github.com/SaiJahnaviD</a> <br>
 🌐 <b>Portfolio:</b> <a href="https://dasaja.designfolio.me/">https://dasaja.designfolio.me/</a> <br>
 🤝 <b>Handshake Profile:</b> <a href="https://app.joinhandshake.com/profiles/sai-jahnavi-damacharla/">https://app.joinhandshake.com/profiles/sai-jahnavi-damacharla</a> <br>
-📍 <b>Location:</b> USA
+📍 <b>Location:</b> USA (open for re-location)
 </p>
 
 ---
