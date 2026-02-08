@@ -125,7 +125,7 @@ I'm a fresh grad with a major in Applied Data Science from IUI along with Comput
 
 ---
 
-## 5. 📄 My Technical Document on Naive-Bayes Classifier : Mathematical Approach
+## 5. ✍️ My Technical Write-up on Naive-Bayes Classifier : Mathematical Approach
 - **[Naive Bayes Classifier](https://hackmd.io/@SaiJahnaviDamacharla/BJ7k9c4W-x)** - Explains all aspects of Naive Bayes Model with application case study and pseudocode.
 
   - *Mathematics for ML, Training, Prediction, Variants, Practicality, Technical Writing, Research*
