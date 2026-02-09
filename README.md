@@ -126,12 +126,14 @@ I'm a fresh grad with Masters' in Applied Data Science from Indiana University I
 
 ---
 
-## 5. ✍️ My Technical Write-up on Naive-Bayes Classifier : Mathematical Approach
-- **[Naive Bayes Classifier](https://hackmd.io/@SaiJahnaviDamacharla/BJ7k9c4W-x)** - Explains all aspects of Naive Bayes Model with application case study and pseudocode.
+## 5. ✍️ My Technical Write-Ups
+
+- **[Naive Bayes Classifier: Mathematical Approach](https://hackmd.io/@SaiJahnaviDamacharla/BJ7k9c4W-x)** - Explains all aspects of Naive Bayes Model with application case study and pseudocode.
 
   - *Mathematics for ML, Training, Prediction, Variants, Practicality, Technical Writing, Research*
 
-
+- **[AWS Redshift SQL](https://github.com/SaiJahnaviD/AWS_Redshift_SQL)** - A small note on how I learnt Amazon Q and Redshift - for real-world AWS analytics use cases.
+  - *AWS, Generative SQL Architecture (LLMs + RAG), AWS-Redshift, Prompt Engineering, AWS Analytics*  
 ---
 
 # 💡 My Inspiration and Journey 
