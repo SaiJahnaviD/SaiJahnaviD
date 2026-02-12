@@ -34,7 +34,7 @@
 
 # Hey, I am Sai Jahnavi Damacharla!
 
-I'm a fresh grad with Masters' in Applied Data Science from Indiana University Indianapolis, along with Computer Science background in undergrad from India; looking for opportunities in healthcare, fin-tech, con-tech, transportation, media, business and any product-tech industries.
+I'm a fresh grad with Masters' in Applied Data Science from Indiana University Indianapolis, looking for opportunities in healthcare, fin-tech, IT services, transportation, media, business and any product-tech industries.
 
 ---
 
@@ -142,11 +142,13 @@ My journey of data science began during my undergrad, when my math professor ask
 
 <img src="calci_img.png" width="600" height="400"/>
 
-Since then, I have pursued a Master’s in Applied Data Science at Indiana University, where I have gained expertise across healthcare analytics, urban planning, geospatial intelligence, and business intelligence. My internship at Christopher B. Burke Engineering provided hands-on experience applying data skills to answer challenges, and my research at COMET Lab involved working with spatial and economic datasets.
+Since then, I have pursued a Master’s in Applied Data Science at Indiana University and along with coursework, I've transformed my passion for data into measurable business impact through hands-on projects and professional experiences. My journey started with a strong Computer Science foundation in undergrd and quickly evolved into real-world applications from building production-ready generative AI chatbots deployed on cloud platforms to developing customer segmentation models that delivered actionable KPIs for Retention strategies. 
 
-I am driven by the passion in data science and machine learning to create meaningful impact whether improving healthcare outcomes, optimizing urban infrastructure, or addressing environmental challenges. I believe that combining machine learning or any technical skills with right domain expertise can unlock powerful solutions to the hottest problems in technology today.
+What sets me apart is my ability to bridge the gap between academic knowledge and industry needs: I've worked with AICTE analyzing large-scale datasets using advanced ML techniques, forecasted stock demand using ARIMA/SARIMA models with real-world financial data, and designed A/B testing, CI/CD frameworks for marketing optimization. I'm equally comfortable writing Python code for feature engineering, querying BigQuery for data pipelines, creating Power BI dashboards for stakeholder presentations, and deploying applications using containerization tools like Docker, cloud platforms like Apache Pyspark, GCP and Azure Cloud. 
+
 
 With equal enthusiasm, I also served as a Professional Development Lead in a student-led club at Indiana University during my graduate studies. I helped peers craft standout ats-friendly resumes, build compelling portfolios, and navigate the job market across diverse domains.
+
 
 ---
 
