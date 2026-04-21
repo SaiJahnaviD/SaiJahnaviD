@@ -1,34 +1,6 @@
 
 <img src="banner_DSJ.png" width="100%" alt="Jahnavi - Data Scientist Banner" />
 
-
-<p >
-<a href="https://www.python.org/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32"/></a>
-<a href="https://pandas.pydata.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32" height="32"/></a>
-<a href="https://numpy.org/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="32" height="32"/></a>
-<a href="https://scikit-learn.org/stable/documentation.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="32" height="32"/></a>
-<a href="https://matplotlib.org/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="32" height="32"/></a>
-<a href="https://www.r-project.org/other-docs.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="32" height="32"/></a>
-<a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" height="32"/></a>
-<a href="https://powerbi.microsoft.com/en-us/learning/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" width="32" height="32"/></a>
-<a href="https://www.tableau.com/learn/training" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="32" height="32"/></a>
-<a href="https://jupyter.org/documentation" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="32" height="32"/></a>
-<a href="https://colab.research.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="32" height="32"/></a>
-<a href="https://learn.microsoft.com/en-us/office/client-developer/access/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-access-2013.svg" width="32" height="32"/></a>
-<a href="https://posit.co/products/open-source/rstudio/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="32" height="32"/></a>
-<a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32" height="32"/></a>
-<a href="https://docs.streamlit.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="32" height="32"/></a>
-<a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" height="32"/></a>
-<a href="https://www.tensorflow.org/learn" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="32" height="32"/></a>
-<a href="https://pytorch.org/docs/stable/index.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32" height="32"/></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="32" height="32"/></a>
-<a href="https://huggingface.co/docs" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32"/></a>
-<a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32"/></a>
-<a href="https://cloud.google.com/docs" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="32" height="32"/></a>
-<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="32" height="32"/></a>
-
-</p>
-
 ---
 
 ## Data Science | Data Analysis | ML | DL | NLP | AI | GIS | Cloud Computing | Research
