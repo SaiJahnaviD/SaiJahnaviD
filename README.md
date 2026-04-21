@@ -2,7 +2,7 @@
 <img src="banner_DSJ.png" width="100%" alt="Jahnavi - Data Scientist Banner" />
 
 
-<p align="left">
+<p >
 <a href="https://www.python.org/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32"/></a>
 <a href="https://pandas.pydata.org/docs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32" height="32"/></a>
 <a href="https://numpy.org/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="32" height="32"/></a>
